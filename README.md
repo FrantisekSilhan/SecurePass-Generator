@@ -12,6 +12,10 @@ Generate strong and unique passwords effortlessly with SecurePass Generator. A s
 4. Click the "Generate Password" button to get a secure password.
 5. Copy the generated password to use it for your accounts.
 
+## GitHub Pages
+
+Visit the [SecurePass Generator GitHub Pages](https://frantiseksilhan.github.io/SecurePass-Generator/) to use the tool directly in your browser.
+
 ## Contributing
 
 Contributions are welcome! If you have ideas for improvements or new features, feel free to create an issue or submit a pull request.
