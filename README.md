@@ -1,5 +1,7 @@
 # SecurePass Generator
 
+This entire repository, including the repository name, description, README, and code, is completely generated using ChatGPT.
+
 Generate strong and unique passwords effortlessly with SecurePass Generator. A secure tool using domain-specific inputs and a master passphrase, inspired by Guerrilla Mail's Password Generator.
 
 ## How to Use
